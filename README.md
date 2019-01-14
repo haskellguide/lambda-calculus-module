@@ -10,8 +10,8 @@ This module is based upon by work by [Gil Mizrahi](https://github.com/soupi).
 
 It presents a minimalistic framework to learn about many common features in functional languages.
 
-- [[http://www.inf.fu-berlin.de/lehre/WS03/alpi/lambda.pdf][Use this tutorial to learn about the lambda calculus]]
-- [[https://en.wikipedia.org/wiki/Lambda_calculus][Wikipedia article on the Lambda Calculus]]
+- [http://www.inf.fu-berlin.de/lehre/WS03/alpi/lambda.pdf](Use this tutorial to learn about the lambda calculus)
+- [Wikipedia article on the Lambda Calculus](https://en.wikipedia.org/wiki/Lambda_calculus)
 
 # exercises
 
