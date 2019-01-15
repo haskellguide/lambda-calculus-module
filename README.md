@@ -18,17 +18,17 @@ It presents a minimalistic framework to learn about many common features in func
 1. Reduce the following expressions to normal form using pen and paper
 
 ```
-1. ~λx. x~
-2. ~(λx. x) y~
-3. ~(λx. x x) (λy. y)~
-4. ~(λw. λx. λz. x w z) a (λb. λc. c b) (λd. d)~
+a. ~λx. x~
+b. ~(λx. x) y~
+c. ~(λx. x x) (λy. y)~
+d. ~(λw. λx. λz. x w z) a (λb. λc. c b) (λd. d)~
 ```
 
 2. Use eta conversion on the following expression
 
 ```
-1. ~λx. f x~
-2. ~λf. λy. (λx. f x) y~
+a. ~λx. f x~
+b. ~λf. λy. (λx. f x) y~
 ```
 
 3. Write the expression `~2 + 3~` in the lambda calculus and evaluate it using pen and paper
